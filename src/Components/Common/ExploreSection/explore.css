@@ -1,0 +1,8 @@
+.explore-section{
+    padding: 40px 0px;
+}
+.explore-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
